@@ -25,7 +25,7 @@ To model the demand for shared bikes with the available independent variables, w
 ## Conclusion
 Significant variables to predict the demand for shared bikes
 
-- holiday
-- temp
-- hum
+- Temperature (temp)
+- Weather Situation 3 (light_snowrain)
+- Year (yr)
 
